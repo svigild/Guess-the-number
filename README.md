@@ -1,4 +1,4 @@
-# Guess-the-number
+# Guess-the-number 🔢
 Exam exercise for the Interface Development course.
 
 This simple program consists of the user having to guess a random number that is generated each time the program is run.
