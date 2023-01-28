@@ -28,7 +28,7 @@ If the user guesses the number, a message will be displayed informing that he ha
 
 Finally, it must also be said that there is a menu bar, which allows the user to start a new game or close the program:
 
-![image](https://user-images.githubusercontent.com/116498192/215291350-61db642a-1bc3-4ebe-aa2d-20043e0f5ee3.png)
+![image](https://user-images.githubusercontent.com/116498192/215291370-c217614c-e426-4601-afb1-2ee58399e60d.png)
 
 
 
